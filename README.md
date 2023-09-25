@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **backend frameworks in python**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 🤝 I’m looking for help with **PowerBi Dashboards**
 
