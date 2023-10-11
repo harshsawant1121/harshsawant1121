@@ -8,11 +8,8 @@
 
 
 - 🌱 I’m currently learning **Data Analytics**
-- 
 - 🔭 I’m currently working with **PowerBi Retail Project **
-- 
 - 👨‍💻 All of my projects are available at [https://github.com/harshsawant1121](https://github.com/harshsawant1121)
-
 - 📫 How to reach me **harshsawant121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
