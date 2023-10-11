@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsawant1121&label=Profile%20views&color=0e75b6&style=flat" alt="harshsawant1121" /> </p>
 
-- 🔭 I’m currently working on **backend frameworks in python**
+
 
 - 🌱 I’m currently learning **Data Analytics**
-
-- 🤝 I’m looking for help with **PowerBi Dashboards**
-
+- 
+- 🔭 I’m currently working with **PowerBi Retail Project **
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/harshsawant1121](https://github.com/harshsawant1121)
 
 - 📫 How to reach me **harshsawant121@gmail.com**
