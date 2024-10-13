@@ -7,8 +7,8 @@
 
 
 
-- 🌱 I’m currently learning **Data Analytics**
-- 🔭 I’m currently working with **PowerBi Retail Project**
+- 🌱 I’m love finding insights from data 
+- 🔭 Proficient in PowerBI and Tableau
 - 👨‍💻 All of my projects are available at [https://github.com/harshsawant1121](https://github.com/harshsawant1121)
 - 📫 How to reach me **harshsawant121@gmail.com**
 
